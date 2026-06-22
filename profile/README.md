@@ -25,6 +25,7 @@ Our mission is to provide high-performance, production-ready components that hel
 - [oToCAM264ISP_GMSL_IMX390_NVIDIA](https://github.com/otobrite-support/oToCAM264ISP_GMSL_IMX390_NVIDIA)
 - [oToCAM271ISP_GMSL_IMX728_NVIDIA](https://github.com/otobrite-support/oToCAM271ISP_GMSL_IMX728_NVIDIA)
 - [oToCAM274ISP_GMSL_IMX623_NVIDIA](https://github.com/otobrite-support/oToCAM274ISP_GMSL_IMX623_NVIDIA)
+- [oToCAM276ISP_GMSL_AR0823AT_NVIDIA](https://github.com/otobrite-support/oToCAM276ISP_GMSL_AR0823AT_NVIDIA)
 ### Source Files
 
 (To be added soon...)
