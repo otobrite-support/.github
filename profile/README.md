@@ -35,7 +35,7 @@ Our mission is to provide high-performance, production-ready components that hel
 ### oToVision
 
 #### SDK
-- [oToVision_SDK](https://github.com/otobrite-support/oToCAM222_GMSL_ISX021_Intel)
+- [oToVision_SDK](https://github.com/otobrite-support/otovision-sdk-docs)
 
 (To be added soon...)
 
